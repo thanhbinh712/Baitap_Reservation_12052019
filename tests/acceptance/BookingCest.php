@@ -83,7 +83,7 @@ class BookingCest
         $I -> wantToTest('I want to create new booking without fill Field Description');
         $I -> checkCreateReservation();
         $I = new BookingSteps($scenario);
-        $I -> doBooking($this->booking);
+        $I -> doBooking($this->booking1);
         $I -> doAdd();
         $I -> pause();
     }
