@@ -18,11 +18,19 @@ class BookingSteps extends \AcceptanceTester
         $I -> fillField(BookingPage::$description, $booking['description']);
         $I -> fillField(BookingPage::$startTime, $booking['startTime']);
     }
+
+    /**
+     *
+     */
     public function checkClear()
     {
         $I = $this;
         $I -> click(BookingPage::$clear);
     }
+
+    /**
+     * 
+     */
     public function doAdd()
     {
         $I = $this;

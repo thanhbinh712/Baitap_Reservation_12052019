@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24dba23f-afe9-48e1-99ce-12c96b150654" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/BookingCest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/BookingCest.php" afterDir="false" />
-    </list>
+    <list default="true" id="24dba23f-afe9-48e1-99ce-12c96b150654" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/acceptance/BookingCest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+            <state relative-caret-position="359">
+              <caret line="98" column="41" lean-forward="true" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
               <folding>
                 <element signature="e#7#40#0#PHP" expanded="true" />
               </folding>
@@ -318,16 +316,15 @@
       <workItem from="1557979457276" duration="1810000" />
       <workItem from="1558106760187" duration="925000" />
       <workItem from="1558143008317" duration="3427000" />
-      <workItem from="1558147028213" duration="1071000" />
+      <workItem from="1558147028213" duration="2268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47334000" />
+    <option name="totallyTimeSpent" value="48531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28668684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -437,8 +434,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/acceptance/BookingCest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        <state relative-caret-position="359">
+          <caret line="98" column="41" lean-forward="true" selection-start-line="98" selection-start-column="41" selection-end-line="98" selection-end-column="41" />
           <folding>
             <element signature="e#7#40#0#PHP" expanded="true" />
           </folding>
